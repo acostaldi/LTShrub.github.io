@@ -1,0 +1,93 @@
+body {
+    background:rgb(35, 31, 32);
+    font-family: Calibri;
+    text-align: center;
+}
+
+h1, h2, li {
+    color: 999;
+}
+
+a {
+    color: #98ff98;
+}
+
+p {
+    background: rgb(54, 54, 54);
+    color: white;
+    padding: 10px 0px;
+}
+
+nav ul li{
+    background:rgb(51, 55, 56);
+    width: 31%;
+    font-size: 40;
+    color: #98ff98;
+    display: inline-block;
+    text-decoration: none;
+}
+
+.class0{
+    background: rgb(35, 31, 32);
+    color: #98ff98;
+    padding: 10px 0px;
+    font-size: 70;
+    text-align: center;
+}
+
+.class1{
+    color: #98ff98;
+    list-style-type: none; 
+    padding: 10px 0px;
+    font-size: 40;
+    text-align: center;
+}
+
+.class2{
+    color: #98ff98;
+    list-style-type: none; 
+    padding: 10px 0px;
+    font-size: 40;
+    display: inline-block;
+
+}
+
+.class3{
+    color: #4eb44e;
+    list-style-type: none; 
+    padding: 10px 0px;
+    font-size: 20;
+    text-align: center;
+    list-style-type: none; 
+}
+
+.class4{
+    color: #b6beb6;
+    list-style-type: none; 
+    padding: 10px 0px;
+    font-size: 20;
+    text-align: center;
+}
+
+div ul li{
+    color: #98ff98;
+    list-style-type: none; 
+    padding: 10px 0px;
+    font-size: 20;
+    text-align: center;
+    list-style-type: none; 
+}
+
+@font-face {
+    font-family: 'OldSchool'; /*a name to be used later*/
+    src: url('E:\Desktop\COMPSCI\Shrubsite/fontfile.ttf') format('truetype'); /*URL to font*/
+}
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
+
+
+
